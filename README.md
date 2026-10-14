@@ -1,7 +1,7 @@
 # 🚀 FLASH-MD-V3 ⚡: The Ultimate WhatsApp Bot
 
 <p align="center">
-  <img src="https://files.catbox.moe/c2jdkw.jpg" alt="FLASH-MD-V2 Banner" width="600"/>
+  <img src="https://tmpfiles.org/dl/wtA9K6izEAIh/emmyhenz_1791937351369_xfjuqz.jpg" alt="FLASH-MD-V2 Banner" width="600"/>
 </p>
 
 **FLASH-MD-V3** is a powerful, fully customizable WhatsApp bot built with **Node.js** and the **WhatsApp Web API**. Automate tasks, manage groups, and enhance your WhatsApp experience with ease.
